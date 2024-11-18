@@ -6,7 +6,7 @@
     "author": "Israel Laguan",
     "license": "MIT",
     "dependencies": {
-        "firebase": "^7.3.0"
+        "firebase": "^10.9.0"
     },
     "repository": "git@github.com:Israel-Laguan/firebase-crud.git",
     "devDependencies": {
